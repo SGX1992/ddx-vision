@@ -1,0 +1,2 @@
+{ "_comment": "Motion backgrounds. `poster` is the still used for the picker thumbnail; only the chosen clip is fetched.",
+  "_shared": [ { "file": "ddx-background.mp4", "label": "Flow", "poster": "poster-1.jpg" }, { "file": "ddx-background-2.mp4", "label": "Prism", "poster": "poster-2.jpg" } ] }
